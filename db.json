@@ -46,7 +46,25 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 14
+    },
+    {
+      "name": "Connor",
+      "image": "http://localhost:3000/",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Connor",
+      "image": "https://media.istockphoto.com/photos/brown-teddy-bear-isolated-in-front-of-a-white-background-picture-id909772478?k=6&m=909772478&s=612x612&w=0&h=X55jzpsKboa_jUjbEN8eqAn0gjt696ldbeJMEqmNrcU=",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Ekene",
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1569015224-41nvnQ02C1L.jpg",
+      "likes": 0,
+      "id": 11
     }
   ]
 }
